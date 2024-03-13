@@ -158,3 +158,5 @@ F_hat_eigenvalues =
 The eigenvalues of A may be calculated, but we don't print them all to the console.  The real parts of the eigenvalues are nonpositive.
 
 
+The eigenvalues of A + conj(transpose(A)) are all real and range from about -19 to about +7.81.
+
